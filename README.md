@@ -21,7 +21,11 @@ To reproduce and run this project on your local machine, follow these steps:
        cd smart-city-person-tracking
     2. Create a virtual environment and activate it:
        python -m venv venv
-       source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+       source venv/bin/activate  # On Windows use `venv\Scripts\activate`![Saturday Afternoon Walk in Gangnam Streets Seoul Tour Korea](https://github.com/user-attachments/assets/4ce11ece-456a-4a69-8431-a838b4e41d14)
+
     3. Install the required packages:
        pip install -r requirements.txt
+
+![Saturday Afternoon Walk in Gangnam Streets Seoul Tour Korea](https://github.com/user-attachments/assets/b0d1ea3f-65ed-4819-8b42-d6e4121d800e)
+
 
