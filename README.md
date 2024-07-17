@@ -10,6 +10,7 @@ The dataset used in this project is COCO (Common Objects in Context) 2017, a pop
 To reproduce and run this project on your local machine, follow these steps:
 
 ### Prerequisites:
+
 Ensure you have the following installed:
     - Python 3.8 or higher
     - Virtual environment tool (e.g., venv or conda)
