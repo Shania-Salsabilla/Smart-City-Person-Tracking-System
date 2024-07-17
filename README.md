@@ -26,6 +26,7 @@ Urban security is a critical concern for modern cities. An intelligent AI-based 
    5. `Training YOLOv8m 50 Epoch.ipynb`: Notebook for training the YOLOv8m model for 50 epochs.
 - `Person Tracking Inference with Gradio.ipynb`: Notebook for performing inference using Gradio.
 - `Person Tracking with Faster-RCNN.ipynb`: Notebook for training and testing models with Faster R-CNN.
+- `Person Detection.pptx`: A PowerPoint file that presents project details, including the results of person detection and tracking.
 
 ## Getting Started:
 To reproduce and run this project on your local machine, follow these steps:
