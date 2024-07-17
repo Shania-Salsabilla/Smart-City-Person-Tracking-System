@@ -1,4 +1,5 @@
 # Smart-City-Person-Tracking-System
+![Saturday Afternoon Walk in Gangnam Streets Seoul Tour Korea](https://github.com/user-attachments/assets/e16edea9-c4f3-4209-8a08-9cd6bdd171c0)
 
 ## Introduction:
 Urban security is a critical concern for modern cities. An intelligent AI-based person-tracking system can significantly enhance surveillance capabilities, allowing for the automatic detection and tracking of individuals in specific areas to ensure safety and security. This project leverages advanced object detection algorithms, Faster R-CNN and YOLOv8m, to develop a robust person-tracking system. Person tracking involves detecting objects in the initial frame and then tracking them across subsequent frames. Object Detection techniques generate bounding boxes around objects of interest, which are then used for tracking purposes.
@@ -26,6 +27,5 @@ To reproduce and run this project on your local machine, follow these steps:
     3. Install the required packages:
        pip install -r requirements.txt
 
-![Saturday Afternoon Walk in Gangnam Streets Seoul Tour Korea](https://github.com/user-attachments/assets/b0d1ea3f-65ed-4819-8b42-d6e4121d800e)
 
 
