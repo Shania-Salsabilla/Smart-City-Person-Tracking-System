@@ -10,18 +10,18 @@ The dataset used in this project is COCO (Common Objects in Context) 2017, a pop
 To reproduce and run this project on your local machine, follow these steps:
 
 ### Prerequisites:
-    Ensure you have the following installed:
+Ensure you have the following installed:
     - Python 3.8 or higher
     - Virtual environment tool (e.g., venv or conda)
     - Git
 
 ### Installation:
-    1. Clone the repository:
-       git clone https://github.com/yourusername/smart-city-person-tracking.git
-       cd smart-city-person-tracking
-    2. Create a virtual environment and activate it:
-       python -m venv venv
-       source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    3. Install the required packages:
-       pip install -r requirements.txt
+1. Clone the repository:
+   git clone https://github.com/yourusername/smart-city-person-tracking.git
+   cd smart-city-person-tracking
+3. Create a virtual environment and activate it:
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+4. Install the required packages:
+   pip install -r requirements.txt
 
